@@ -16,7 +16,7 @@ Equipment used in experimentation
 A set of tests was conducted to determine the accuracy between multiple types of system designs including: Trilateration, Fingerprinting with K-Nearest Neighbor (KNN) postprocessing, while using filtering types such as: Running Average and Kalman. 
  
  ## Environment
-The experimental environment utilized was a 5.8 x 5.3 m meeting room. The environment was a very noisy environment due to a large number of transmitter being in the area at the time the experiments were performed. 
+The experimental environment utilized was a 5.8 x 5.3 m meeting room. The environment was a very noisy environment due to a large number of transmitter being in the area at the time the experiments were performed. All points were taken when on tables to simulate a constant height between all the points. 
  
  ## Topology
  In the testing environemnt, 16 fingerprints were gathered to be used in the creation of a database, while 6 points were selected to be used against the database for the comparison. A general overview of the experiment performed can be seen in:
