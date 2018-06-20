@@ -18,6 +18,9 @@ Equipment used in experimentation
  
  ## Topology
  
+ Fingerprints             |  Test Points
+:-------------------------:|:-------------------------:
+![](https://github.com/ssadowsk/Raw-RSSI-Dataset/blob/master/Images/fingerprints.png)  |  ![](https://github.com/ssadowsk/Raw-RSSI-Dataset/blob/master/Images/tests.png)
  
  # Related Publications
  
